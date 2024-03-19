@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-=======
-# Projeto CarrinhoFácil
+
+# Projeto Carrinho Fácil
 
 Bem-vindo ao Projeto CarrinhoFácil! Este é meu primeiro projeto profissional, e estou empolgado em compartilhar com vocês esta experiência simples, porém eficaz, de interação com um carrinho de compras.
 
