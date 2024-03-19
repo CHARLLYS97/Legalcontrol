@@ -1,30 +1,25 @@
-# React + TypeScript + Vite
+# Projeto CarrinhoFácil
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao Projeto CarrinhoFácil! Este é meu primeiro projeto profissional, e estou empolgado em compartilhar com vocês esta experiência simples, porém eficaz, de interação com um carrinho de compras.
 
-Currently, two official plugins are available:
+## Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+O Projeto CarrinhoFácil é uma aplicação que simplifica a experiência de compra online, proporcionando uma interface intuitiva e fácil de usar para adicionar e gerenciar itens no carrinho de compras.
 
-## Expanding the ESLint configuration
+## Funcionalidades Principais
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- **Adicionar Items ao Carrinho**: Os usuários podem adicionar facilmente produtos ao carrinho de compras com apenas um clique.
+- **Visualização do Carrinho**: Uma interface limpa e organizada que exibe todos os itens presentes no carrinho, juntamente com seus preços e quantidades.
+- **Editar e Remover Items**: Os usuários têm a flexibilidade de editar a quantidade de itens no carrinho ou remover itens indesejados.
 
-- Configure the top-level `parserOptions` property like this:
+## Tecnologias Utilizadas
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- **Frontend**: Typescript & React
+- **Backend**: Node.js
+- **Banco de Dados**: JSON
+- **Outras Ferramentas**: Git, GitHub
+
+## Licença
+
+Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
