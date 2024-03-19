@@ -23,7 +23,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
             <Card.Img
                 variant="top"
                 src={imgUrl}
-                height="200px"
+                height="450px"
                 style={{ objectFit: "cover" }}
             />
             <Card.Body className="d-flex flex-column">
@@ -34,7 +34,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
                 </Card.Title>
                 <div className="mt-auto">
                     {quantity === 0 ? (
-                        <Button className="W-100" onClick={() => increaseCartQuantity(id)}>+ Add To Cart
+                        <Button className="W-100" onClick={() => increaseCartQuantity(id)}>Adicionar ao carrinho
                         </Button>
                     ) : (
                         <div
@@ -47,7 +47,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
                             >
                                 <Button onClick={() => decreaseCartQuantity(id)}>-</Button>
                                 <div>
-                                    <span className="fs-3">{quantity}</span> in cart
+                                    <span className="fs-3">{quantity}</span> no carrinho
                                 </div>
                                 <Button onClick={() => increaseCartQuantity(id)}>+</Button>
                             </div>
@@ -56,7 +56,7 @@ export function StoreItem({ id, name, price, imgUrl }: StoreItemProps) {
                                 variant="danger"
                                 size="sm"
                             >
-                                Remove
+                                Remover
                             </Button>
                         </div>
                     )}

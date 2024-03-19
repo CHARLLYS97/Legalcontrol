@@ -1,26 +1,38 @@
 [
     {
       "id": 1,
-      "name": "Book",
-      "price": 10.99,
-      "imgUrl": "/imgs/book.jpg"
+      "name": "Quadro Helicônia",
+      "price": 109,
+      "imgUrl": "/imgs/Heliconia.jpg"
     },
     {
       "id": 2,
-      "name": "Computer",
-      "price": 1199,
-      "imgUrl": "/imgs/computer.jpg"
+      "name": "Quadro Abstrato",
+      "price": 170,
+      "imgUrl": "/imgs/abstrato.jpg"
     },
     {
       "id": 3,
-      "name": "Banana",
-      "price": 1.05,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "Quadro Home",
+      "price": 140,
+      "imgUrl": "/imgs/home.jpg"
     },
     {
       "id": 4,
-      "name": "Car",
-      "price": 14000,
-      "imgUrl": "/imgs/car.jpg"
-    }
+      "name": "Quadro Árvore Colorida",
+      "price": 1480,
+      "imgUrl": "/imgs/arvore.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Quadro Elefante",
+      "price": 290,
+      "imgUrl": "/imgs/elefante.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Quadro Árvore cinza",
+      "price": 999,
+      "imgUrl": "/imgs/cinza.jpg"
+    } 
   ]
