@@ -15,7 +15,7 @@ O Projeto CarrinhoFácil é uma aplicação que simplifica a experiência de com
 ## Tecnologias Utilizadas
 
 
-- **Frontend**: Typescript & React
+- **Frontend**: Typescript, React, JavaScript & HTML.  
 - **Backend**: Node.js
 - **Banco de Dados**: JSON
 - **Outras Ferramentas**: Git, GitHub
