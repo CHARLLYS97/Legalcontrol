@@ -24,4 +24,3 @@ O Projeto CarrinhoFácil é uma aplicação que simplifica a experiência de com
 ## Licença
 
 Este projeto é licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
->>>>>>> e80a31b43a021ae3313f145b8c157bf57d3745d5
